@@ -38,29 +38,33 @@ public class ClickToMove : MonoBehaviour
                 { //is it an big bad enemey? attack!
                   //combatManager.startAttack();
                     position = Hit.transform.position;
-                    navMesh.stoppingDistance = weaponRange  + 2f;
+                    navMesh.stoppingDistance = weaponRange + 2f;
                     MoveAttack(position);
                 }
                 else {
                     //combatManager.stopAttack();
+                    somethingCollided = false;
                     position = Hit.point;
                     navMesh.stoppingDistance = 0;
                     Move(position);
-                }
-                
+                }              
             }
         }
     }
 
     void FixedUpdate()
-    {
-        if(navMesh.remainingDistance <= 2 || somethingCollided)
+    { //@toDo; calcolare lo start e lo stop dell'animazione in base alla distanza tra player e target
+        if(navMesh.remainingDistance < 2f || somethingCollided)
         {
             anim.SetFloat("MovingSpeed", 0);
         }
         else
         {
             anim.SetFloat("MovingSpeed", 1);
+        }
+        if (navMesh.steeringTarget != transform.position) //it makes player look towards next waypoint
+        {
+            transform.rotation = Quaternion.LookRotation(navMesh.steeringTarget - transform.position);
         }
     }
 
@@ -78,11 +82,6 @@ public class ClickToMove : MonoBehaviour
         /*Using Nav Mesh Agent*/
         navMesh.SetDestination(position);
         navMesh.Resume();
-        /*rotate*/
-        Quaternion newRotation = Quaternion.LookRotation(position - transform.position);
-        newRotation.x = 0f;
-        newRotation.z = 0f;
-        transform.rotation = Quaternion.Slerp(transform.rotation, newRotation, 10);
     }
 
     void MoveAttack(Vector3 position)

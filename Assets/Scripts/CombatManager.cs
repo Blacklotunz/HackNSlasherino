@@ -5,7 +5,8 @@ public class CombatManager : MonoBehaviour
 {
 
     public int hp;
-    public Animator anim; //need to use combat animations
+
+    Animator anim; //need to use combat animations
     WeaponScript weaponScript;
     bool attackReady;
     float attackCD;
@@ -17,8 +18,7 @@ public class CombatManager : MonoBehaviour
         {
             hp = 100;
         }
-        if(anim == null)
-            anim = GetComponent<Animator>();
+        anim = GetComponent<Animator>();
         weaponScript = this.GetComponentInChildren<WeaponScript>();
         attackCD = weaponScript.weaponSpeed;
         attackReady = true;
