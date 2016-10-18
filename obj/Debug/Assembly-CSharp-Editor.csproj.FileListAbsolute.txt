@@ -1,0 +1,72 @@
+D:\UnityPrototypes\HackNSlasherino\Temp\bin\Debug\Assembly-CSharp-Editor.dll
+D:\UnityPrototypes\HackNSlasherino\Temp\bin\Debug\Assembly-CSharp-Editor.pdb
+D:\UnityPrototypes\HackNSlasherino\Temp\bin\Debug\nunit.framework.dll
+D:\UnityPrototypes\HackNSlasherino\Temp\bin\Debug\UnityEditor.Advertisements.dll
+D:\UnityPrototypes\HackNSlasherino\Temp\bin\Debug\UnityEditor.dll
+D:\UnityPrototypes\HackNSlasherino\Temp\bin\Debug\UnityEditor.EditorTestsRunner.dll
+D:\UnityPrototypes\HackNSlasherino\Temp\bin\Debug\UnityEditor.Graphs.dll
+D:\UnityPrototypes\HackNSlasherino\Temp\bin\Debug\UnityEditor.Networking.dll
+D:\UnityPrototypes\HackNSlasherino\Temp\bin\Debug\UnityEditor.TreeEditor.dll
+D:\UnityPrototypes\HackNSlasherino\Temp\bin\Debug\UnityEditor.UI.dll
+D:\UnityPrototypes\HackNSlasherino\Temp\bin\Debug\UnityEngine.dll
+D:\UnityPrototypes\HackNSlasherino\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\UnityPrototypes\HackNSlasherino\Temp\bin\Debug\UnityEngine.UI.dll
+D:\UnityPrototypes\HackNSlasherino\Temp\bin\Debug\Mono.Cecil.dll
+D:\UnityPrototypes\HackNSlasherino\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\UnityPrototypes\HackNSlasherino\Temp\bin\Debug\Unity.DataContract.dll
+D:\UnityPrototypes\HackNSlasherino\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\UnityPrototypes\HackNSlasherino\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\UnityPrototypes\HackNSlasherino\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\UnityPrototypes\HackNSlasherino\Temp\bin\Debug\Unity.CecilTools.dll
+D:\UnityPrototypes\HackNSlasherino\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\UnityPrototypes\HackNSlasherino\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\UnityPrototypes\HackNSlasherino\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\UnityPrototypes\HackNSlasherino\Temp\bin\Debug\UnityEngine.xml
+D:\UnityPrototypes\HackNSlasherino\Temp\bin\Debug\UnityEditor.xml
+D:\UnityPrototypes\HackNSlasherino\Temp\bin\Debug\UnityEditor.Advertisements.xml
+D:\UnityPrototypes\HackNSlasherino\Temp\bin\Debug\nunit.framework.xml
+D:\UnityPrototypes\HackNSlasherino\Temp\bin\Debug\UnityEditor.EditorTestsRunner.xml
+D:\UnityPrototypes\HackNSlasherino\Temp\bin\Debug\UnityEngine.UI.xml
+D:\UnityPrototypes\HackNSlasherino\Temp\bin\Debug\UnityEditor.UI.xml
+D:\UnityPrototypes\HackNSlasherino\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\UnityPrototypes\HackNSlasherino\Temp\bin\Debug\UnityEditor.Networking.xml
+D:\UnityPrototypes\HackNSlasherino\Temp\bin\Debug\UnityEditor.TreeEditor.xml
+D:\UnityPrototypes\HackNSlasherino\obj\Debug\Assembly-CSharp-Editor.csprojResolveAssemblyReference.cache
+D:\UnityPrototypes\HackNSlasherino\obj\Debug\Assembly-CSharp-Editor.dll
+D:\UnityPrototypes\HackNSlasherino\obj\Debug\Assembly-CSharp-Editor.pdb
+C:\Andrea 3D\Dropbox\HackNSlash\HackNSlasherino\Temp\bin\Debug\Assembly-CSharp-Editor.dll
+C:\Andrea 3D\Dropbox\HackNSlash\HackNSlasherino\Temp\bin\Debug\Assembly-CSharp-Editor.pdb
+C:\Andrea 3D\Dropbox\HackNSlash\HackNSlasherino\Temp\bin\Debug\nunit.framework.dll
+C:\Andrea 3D\Dropbox\HackNSlash\HackNSlasherino\Temp\bin\Debug\UnityEditor.Advertisements.dll
+C:\Andrea 3D\Dropbox\HackNSlash\HackNSlasherino\Temp\bin\Debug\UnityEditor.dll
+C:\Andrea 3D\Dropbox\HackNSlash\HackNSlasherino\Temp\bin\Debug\UnityEditor.EditorTestsRunner.dll
+C:\Andrea 3D\Dropbox\HackNSlash\HackNSlasherino\Temp\bin\Debug\UnityEditor.Graphs.dll
+C:\Andrea 3D\Dropbox\HackNSlash\HackNSlasherino\Temp\bin\Debug\UnityEditor.Networking.dll
+C:\Andrea 3D\Dropbox\HackNSlash\HackNSlasherino\Temp\bin\Debug\UnityEditor.TreeEditor.dll
+C:\Andrea 3D\Dropbox\HackNSlash\HackNSlasherino\Temp\bin\Debug\UnityEditor.UI.dll
+C:\Andrea 3D\Dropbox\HackNSlash\HackNSlasherino\Temp\bin\Debug\UnityEngine.dll
+C:\Andrea 3D\Dropbox\HackNSlash\HackNSlasherino\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Andrea 3D\Dropbox\HackNSlash\HackNSlasherino\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Andrea 3D\Dropbox\HackNSlash\HackNSlasherino\Temp\bin\Debug\Mono.Cecil.dll
+C:\Andrea 3D\Dropbox\HackNSlash\HackNSlasherino\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Andrea 3D\Dropbox\HackNSlash\HackNSlasherino\Temp\bin\Debug\Unity.DataContract.dll
+C:\Andrea 3D\Dropbox\HackNSlash\HackNSlasherino\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Andrea 3D\Dropbox\HackNSlash\HackNSlasherino\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Andrea 3D\Dropbox\HackNSlash\HackNSlasherino\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Andrea 3D\Dropbox\HackNSlash\HackNSlasherino\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Andrea 3D\Dropbox\HackNSlash\HackNSlasherino\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Andrea 3D\Dropbox\HackNSlash\HackNSlasherino\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Andrea 3D\Dropbox\HackNSlash\HackNSlasherino\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Andrea 3D\Dropbox\HackNSlash\HackNSlasherino\Temp\bin\Debug\UnityEngine.xml
+C:\Andrea 3D\Dropbox\HackNSlash\HackNSlasherino\Temp\bin\Debug\UnityEditor.xml
+C:\Andrea 3D\Dropbox\HackNSlash\HackNSlasherino\Temp\bin\Debug\UnityEditor.Advertisements.xml
+C:\Andrea 3D\Dropbox\HackNSlash\HackNSlasherino\Temp\bin\Debug\nunit.framework.xml
+C:\Andrea 3D\Dropbox\HackNSlash\HackNSlasherino\Temp\bin\Debug\UnityEditor.EditorTestsRunner.xml
+C:\Andrea 3D\Dropbox\HackNSlash\HackNSlasherino\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Andrea 3D\Dropbox\HackNSlash\HackNSlasherino\Temp\bin\Debug\UnityEditor.UI.xml
+C:\Andrea 3D\Dropbox\HackNSlash\HackNSlasherino\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Andrea 3D\Dropbox\HackNSlash\HackNSlasherino\Temp\bin\Debug\UnityEditor.Networking.xml
+C:\Andrea 3D\Dropbox\HackNSlash\HackNSlasherino\Temp\bin\Debug\UnityEditor.TreeEditor.xml
+C:\Andrea 3D\Dropbox\HackNSlash\HackNSlasherino\obj\Debug\Assembly-CSharp-Editor.csprojResolveAssemblyReference.cache
+C:\Andrea 3D\Dropbox\HackNSlash\HackNSlasherino\obj\Debug\Assembly-CSharp-Editor.dll
+C:\Andrea 3D\Dropbox\HackNSlash\HackNSlasherino\obj\Debug\Assembly-CSharp-Editor.pdb

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackNSlasherino.CSharp.Plugins", "HackNSlasherino.CSharp.Plugins.csproj", "{FE9C5B55-0F74-9874-F39C-22785BB4F91C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackNSlasherino.CSharp", "HackNSlasherino.CSharp.csproj", "{98EC9754-64D4-8511-D47E-1E2003236CD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackNSlasherino.CSharp.Editor", "HackNSlasherino.CSharp.Editor.csproj", "{C2FB55BD-7CDD-087B-1320-212ADD7D60E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE9C5B55-0F74-9874-F39C-22785BB4F91C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE9C5B55-0F74-9874-F39C-22785BB4F91C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE9C5B55-0F74-9874-F39C-22785BB4F91C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE9C5B55-0F74-9874-F39C-22785BB4F91C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98EC9754-64D4-8511-D47E-1E2003236CD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98EC9754-64D4-8511-D47E-1E2003236CD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98EC9754-64D4-8511-D47E-1E2003236CD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98EC9754-64D4-8511-D47E-1E2003236CD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2FB55BD-7CDD-087B-1320-212ADD7D60E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2FB55BD-7CDD-087B-1320-212ADD7D60E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2FB55BD-7CDD-087B-1320-212ADD7D60E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2FB55BD-7CDD-087B-1320-212ADD7D60E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
